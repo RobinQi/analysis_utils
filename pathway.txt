@@ -1,0 +1,25 @@
+KEGG	pValue
+Cell cycle	1.05E-04
+Progesterone-mediated oocyte maturation	1.86E-04
+Intestinal immune network for IgA production	0.003008282
+Staphylococcus aureus infection	0.004464837
+Oocyte meiosis	0.004505194
+Viral myocarditis	0.005199265
+Toxoplasmosis	0.005968442
+Antigen processing and presentation	0.011511512
+Phagosome	0.014594928
+Asthma	0.014735327
+Rheumatoid arthritis	0.017068032
+Graft-versus-host disease	0.017676594
+HTLV-I infection	0.020475687
+Allograft rejection	0.021950323
+Influenza A	0.022336974
+Herpes simplex infection	0.026300804
+Type I diabetes mellitus	0.027828402
+Autoimmune thyroid disease	0.041221046
+Systemic lupus erythematosus	0.050131951
+Inflammatory bowel disease (IBD)	0.05982323
+Drug metabolism - cytochrome P450	0.066561701
+Leishmaniasis	0.071775027
+Tuberculosis	0.096917329
+Small cell lung cancer	0.0977147
